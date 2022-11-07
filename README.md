@@ -33,7 +33,7 @@ Install backend dependencies<br />
 Start the backend with the command<br />
 <strong>npm run dev</strong><br />
 
-<h3>Procedure Start WEB Application </h3>-- <br />
+<h3>Procedure Start WEB Application --</h3 <br />
 
 First access the server directory with the command<br />
 <strong>cd web</strong><br />
@@ -42,7 +42,7 @@ Install WEB Application dependencies<br />
 Start the WEB Application with the command<br />
 <strong>npm run dev</strong><br />
 
-<h3>Procedure start MOBILE application</h3> --<br />
+<h3>Procedure start MOBILE application --</h3> <br />
 
 First access the mobile directory with the command<br />
 <strong>cd mobile</strong><br />
