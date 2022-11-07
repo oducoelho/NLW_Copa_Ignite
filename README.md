@@ -24,14 +24,14 @@
 * SQLite;
      
 ## :rocket: Deploy
-Procedure Start backend --
+Procedure Start backend --<br />
 
-First access the server directory with the command
-cd server
-Install backend dependencies
-npm install
-Start the backend with the command
-npm run dev
+First access the server directory with the command<br />
+cd server<br />
+Install backend dependencies<br />
+npm install<br />
+Start the backend with the command<br />
+npm run dev<br />
 
 Procedure Start WEB Application -- <br />
 
@@ -44,13 +44,14 @@ npm run dev<br />
 
 Procedure start MOBILE application --<br />
 
-First access the mobile directory with the command
-cd mobile
-Change the IP addresses in the SCREENS folder in the GAME and HOME components. Enter your machine's IP Index.ts files for these 2 components.
-Install MOBILE application dependencies
-npm install
-Start the web application with the command
-expo start
+First access the mobile directory with the command<br />
+cd mobile<br />
+Change the IP addresses in the SCREENS folder in the GAME and HOME components. Enter your machine's IP Index.ts files for these 2 components.<br />
+Install MOBILE application dependencies<br />
+npm install<br />
+Start the web application with the command<br />
+expo start<br />
+
 ## :handshake: Collaborators
 <table>
   <tr>
