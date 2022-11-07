@@ -33,16 +33,16 @@ npm install
 Start the backend with the command
 npm run dev
 
-Procedure Start WEB Application --
+Procedure Start WEB Application -- <br />
 
-First access the server directory with the command
-cd web
-Install WEB Application dependencies
-npm install
-Start the WEB Application with the command
-npm run dev
+First access the server directory with the command<br />
+cd web<br />
+Install WEB Application dependencies<br />
+npm install<br />
+Start the WEB Application with the command<br />
+npm run dev<br />
 
-Procedure start MOBILE application --
+Procedure start MOBILE application --<br />
 
 First access the mobile directory with the command
 cd mobile
